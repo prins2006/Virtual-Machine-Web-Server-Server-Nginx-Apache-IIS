@@ -383,4 +383,4 @@ Large cloud providers such as Google, Microsoft, and AWS continuously optimize c
 - PUE measures data center energy efficiency.
 - Lower PUE means better efficiency.
 - IT equipment should consume the largest share of the facility's power.
-- Efficient cooling and power systems help achieve a lower PUE.
+- Efficient cooling and power systems help achieve a lower PUE
